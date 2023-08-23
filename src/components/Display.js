@@ -1,9 +1,11 @@
 import React from "react";
 
-function QuoteDisplay({ currentQuote }) {
+function QuoteDisplay({ currentQuote, currentImage }) {
   return (
     <div>
-      <p>{currentQuote}</p>
+      <p>"{currentQuote.text}"</p>
+      {currentQuote.author && <p>- {currentQuote.author}</p>}
+      {currentImage && <img src={currentImage} alt="Random Nature" />}
     </div>
   );
 }
