@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import "./styles.css";
+import "./index.css";
 import Display from "./components/Display";
 import Button from "./components/Button";
 import axios from "axios";
