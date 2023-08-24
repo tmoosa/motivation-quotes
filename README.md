@@ -17,3 +17,10 @@ As the developer, I wanted to create a simple yet effective solution to deliver 
 
 - Click the "Generate New Quote" button to refresh and display a new motivational quote.
 - Share your favorite quotes using the social media sharing buttons.
+
+
+
+## Struggles
+
+
+The hardest part of this project was finding the perfect API. With countless options available, each offering a unique set of features and data, narrowing down the choices to the one that aligned perfectly with my project requirements was a significant challenge.I was having trouble with getting my app deployed on netlify, but I figured it out after some researching. 
