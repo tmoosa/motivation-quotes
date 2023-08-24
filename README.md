@@ -16,7 +16,7 @@ As the developer, I wanted to create a simple yet effective solution to deliver 
 ## Features
 
 - Click the "Generate New Quote" button to refresh and display a new motivational quote.
-- Share your favorite quotes using the social media sharing buttons.
+- Share your favorite quotes using the social media sharing buttons. (WANTED TO ADD!)
 
 
 
