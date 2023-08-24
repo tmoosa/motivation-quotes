@@ -1,3 +1,6 @@
+# Netlify LINK :
+https://melodic-genie-999afd.netlify.app
+
 # Motivational Quotes App
 
 Welcome to the Motivational Quotes App! This is a simple React application that displays motivational quotes fetched from an external API. Get your daily dose of inspiration with just a click!
